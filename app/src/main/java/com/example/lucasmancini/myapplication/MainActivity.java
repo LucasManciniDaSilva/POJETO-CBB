@@ -19,6 +19,12 @@ public class MainActivity extends AppCompatActivity {
         mAuth = FirebaseAuth.getInstance();
     }
 
+    void testeCmmit(){
+        String teste;
+        String tese2;
+        System.out.println("OI");
+    }
+
     @Override
     public void onStart() {
         super.onStart();
