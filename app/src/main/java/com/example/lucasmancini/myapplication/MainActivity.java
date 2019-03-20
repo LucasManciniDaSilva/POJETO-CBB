@@ -19,6 +19,10 @@ public class MainActivity extends AppCompatActivity {
         mAuth = FirebaseAuth.getInstance();
     }
 
+    void teste(){
+        System.out.println("VAI TOMRA NO CU");
+    }
+
     @Override
     public void onStart() {
         super.onStart();
