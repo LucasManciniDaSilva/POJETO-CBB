@@ -25,6 +25,18 @@ public class MainActivity extends AppCompatActivity {
         setSupportActionBar(mToolbar);
         getSupportActionBar().setTitle("SMSMA");
 
+<<<<<<< HEAD
+=======
+    void teste(){
+        System.out.println("VAI TOMRA NO CU");
+    }
+
+    @Override
+    public void onStart() {
+        super.onStart();
+        // Check if user is signed in (non-null) and update UI accordingly.
+        FirebaseUser currentUser = mAuth.getCurrentUser();
+>>>>>>> origin/master
 
         @Override
         public void onStart () {
