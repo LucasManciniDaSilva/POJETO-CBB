@@ -23,6 +23,14 @@
           }
         },
         {
+          "client_id": "240299643832-6iis7anbleap8e343dsed4k4a9s59cgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lucasmancini.myapplication",
+            "certificate_hash": "ebce4b6a8a3950e42a211adcdec485b640a97ae9"
+          }
+        },
+        {
           "client_id": "240299643832-cg5o93qhqled5f2jjbg2auf69vjor0bj.apps.googleusercontent.com",
           "client_type": 3
         }
